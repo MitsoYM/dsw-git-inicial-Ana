@@ -3,7 +3,7 @@ Repositorio de la actividad inicial del módulo
 Desarrollo Web en Entorno Servidor.
 
 ## Alumno/a
-Escribe aquí tu identificador.
+Ana Laura.
 
 ## Objetivo
 Comprobar el flujo básico de trabajo con Git y GitHub:
